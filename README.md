@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
- * I am a Full Stack Asp.NetCore | Angular Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ * <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a Full Stack Asp.NetCore | Angular Developer  
 
 * :telescope: I’m having a training at Information Technology Institute (ITI).
 
