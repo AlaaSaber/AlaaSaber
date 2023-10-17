@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![typeScript](https://img.shields.io/badge/-typeScript-05122A?style=flat&logo=typeScript)&nbsp;
-![Csharp](https://img.shields.io/badge/-C#-05122A?style=flat&logo=Csharp)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
