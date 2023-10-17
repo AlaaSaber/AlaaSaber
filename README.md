@@ -45,7 +45,7 @@ I am a Full Stack Asp.Net Developer  | angular<img src="https://media.giphy.com/
 
 
 
-- :mailbox:How to reach me: [![Linkedin Badge]https://www.linkedin.com/in/alaa-saber-9a97a3186/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/alaa-saber-9a97a3186/)
 
 ---
 
