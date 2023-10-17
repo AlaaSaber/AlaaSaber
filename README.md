@@ -15,24 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <div id="header" >
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/alaa-saber-9a97a3186/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  </div>
 
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+ 
+
 
 ---
 
@@ -82,7 +68,7 @@ I am a Full Stack Asp.Net Developer  | angular<img src="https://media.giphy.com/
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 
-
+</div>
 
 
 
